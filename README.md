@@ -36,7 +36,7 @@ The dataset contains Airbnb listing data, including:
 - Many hosts have only one listing, indicating a large number of casual renters.
 - Availability and pricing show patterns that can help optimize revenue strategy for hosts.
 
-## 📈 Short Business Conclusion
+## 📈 Conclusion
 
 To improve sales, Airbnb and its hosts should focus on offering entire homes, setting competitive prices based on location, increasing listing availability, and encouraging more guest reviews. These actions can lead to higher visibility, better guest trust, and increased bookings.
 
